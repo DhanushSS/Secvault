@@ -31,6 +31,7 @@ SecVault is a client-side encrypted password manager built with modern web techn
 	•	Clipboard auto-clear (30s)
 	•	Search & filtering
 	•	Expandable content (images, notes, seeds)
+	    Contains Particle motion with cursor sensitive in the background
 
 📲 TOTP Integration
 	•	QR-based setup
